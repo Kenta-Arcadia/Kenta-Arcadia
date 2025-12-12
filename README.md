@@ -60,7 +60,7 @@ KENTA is not software. It is a **living digital organism** — self-organizing, 
 ## 🎯 Applications
 
 - **Wellness** — TCM, chakras, harmonic frequencies
-- **Agriculture** — Biodynamic farming (Goal Green International)
+- **Agriculture** — Biodynamic farming
 - **Gaming** — Adaptive emergent NPCs
 - **Cybersecurity** — Distributed guardian defense
 - **Personality** — VALDOIE symbolic profiling
